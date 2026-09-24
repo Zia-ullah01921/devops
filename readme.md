@@ -1,5 +1,2 @@
-
-
-cat
-dog
-cheta 
+apple
+bnana
